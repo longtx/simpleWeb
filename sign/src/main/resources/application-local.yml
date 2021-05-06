@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: Nlelpct@1234
+    url: jdbc:mysql://192.168.10.14/sign_up?autoReconnect=true&useUnicode=true&characterEncoding=utf-8

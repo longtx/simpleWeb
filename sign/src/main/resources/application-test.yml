@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://rm-wz9p90b2992j8b4e2.mysql.rds.aliyuncs.com:3306/sign_up?useUnicode=true&characterEncoding=UTF8&serverTimezone=Asia/Shanghai
+    username: k8sadmin
+    password: guodi!@#SDF
